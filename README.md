@@ -1,6 +1,4 @@
 
-# Online Exam API With JWT's
-
 # JWTsDEMO - Sales Management Using JWTs
 
 ## Overview
