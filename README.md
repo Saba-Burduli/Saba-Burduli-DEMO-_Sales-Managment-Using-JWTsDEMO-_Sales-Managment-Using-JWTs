@@ -4,6 +4,19 @@
 ## Overview
 The **JWTsDEMO - Sales Management Using JWTs** project is a **Sales Management System** built with **ASP.NET Core** that demonstrates **JWT-based authentication and role-based access control**. The system allows admins, sales managers, and employees to manage sales records, generate reports, and perform CRUD operations securely.
 
+## How I Built This Project
+I developed this project using **ASP.NET Core Web API** with **Entity Framework Core** for data management and **MSSQL Server** as the database. The authentication mechanism relies on **JWT (JSON Web Token)** to ensure secure access control. The project follows **RESTful API** principles and implements **role-based access control (RBAC)** for different user roles.
+
+### Websites & Tools Used:
+- **Microsoft Docs** – For learning best practices in ASP.NET Core.
+- **Entity Framework Documentation** – For database migrations and setup.
+- **Stack Overflow & GitHub Discussions** – For troubleshooting and optimizing the code.
+- **Postman** – For API testing and debugging.
+- **Swagger (NSwag)** – To generate API documentation and make API testing easier.
+- **Visual Studio 2022** – For coding and debugging.
+- **MSSQL Server Management Studio (SSMS)** – To manage and query the database.
+- **JWT.io** – To decode and verify JWT tokens.
+
 ## Features
 - **JWT Authentication** for secure API access.
 - **Role-based access control (RBAC)** with Admin, Sales Manager, and Employee roles.
@@ -104,7 +117,7 @@ public IActionResult CreateSale(SaleDto saleDto)
 }
 
 [Authorize(Roles = UserRoles.Employee)]
-[HttpGet("/sales-report")]
+[HttpGet("/sales-report")] 
 public IActionResult GetSalesReport()
 {
     // Employees can view sales reports
@@ -134,6 +147,5 @@ public IActionResult GetSalesReport()
 
 ## Conclusion
 The **JWTsDEMO - Sales Management Using JWTs** project provides a secure and scalable solution for handling sales transactions with **JWT authentication** in **ASP.NET Core**. 🚀
-
 
 
