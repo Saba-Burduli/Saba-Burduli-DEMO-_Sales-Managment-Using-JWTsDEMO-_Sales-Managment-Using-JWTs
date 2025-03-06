@@ -1,13 +1,13 @@
 
-# 🚀JWTsDEMO - Sales Management Using JWTs
+🚀# JWTsDEMO - Sales Management Using JWTs
 
-✅## Overview
+ ## ✅ Overview
 The **JWTsDEMO - Sales Management Using JWTs** project is a **Sales Management System** built with **ASP.NET Core** that demonstrates **JWT-based authentication and role-based access control**. The system allows admins, sales managers, and employees to manage sales records, generate reports, and perform CRUD operations securely.
 
-⁉️## How I Built This Project
+## ⁉️ How I Built This Project
 I developed this project using **ASP.NET Core Web API** with **Entity Framework Core** for data management and **MSSQL Server** as the database. The authentication mechanism relies on **JWT (JSON Web Token)** to ensure secure access control. The project follows **RESTful API** principles and implements **role-based access control (RBAC)** for different user roles.
 
-📚### Websites & Tools Used:
+### 📚 Websites & Tools Used:
 - **Microsoft Docs** – For learning best practices in ASP.NET Core.
 - **Entity Framework Documentation** – For database migrations and setup.
 - **Stack Overflow & GitHub Discussions** – For troubleshooting and optimizing the code.
@@ -17,21 +17,21 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 - **MSSQL Server Management Studio (SSMS)** – To manage and query the database.
 - **JWT.io** – To decode and verify JWT tokens.
 
-##🔜 Features
+ ## 🔜 Features
 - **JWT Authentication** for secure API access.
 - **Role-based access control (RBAC)** with Admin, Sales Manager, and Employee roles.
 - **CRUD operations** for sales records and product management.
 - **MSSQL Database** integration using **Entity Framework Core**.
 - **Swagger API Documentation** for easy testing.
 
-##💻 Technologies Used
+## 💻 Technologies Used
 - **ASP.NET Core Web API**
 - **Entity Framework Core**
 - **Microsoft SQL Server (MSSQL)**
 - **JWT Authentication**
 - **Swagger (for API documentation)**
 
-##↙️ Installation & Setup
+## ↙️ Installation & Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/JWTsDEMO-Sales-Management.git
@@ -63,7 +63,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
    dotnet run
    ```
 
-##✅ JWT Authentication & Role-Based Access Control
+## ✅ JWT Authentication & Role-Based Access Control
 ### How JWT Works in ASP.NET Core
 1. **User Logs In:** A user submits credentials (email & password) to the API.
 2. **Token Generation:** If valid, the API generates a JWT token with user claims (including roles).
@@ -125,7 +125,7 @@ public IActionResult GetSalesReport()
 }
 ```
 
-##✅ API Endpoints
+## ✅ API Endpoints
 ### Authentication
 | Method | Endpoint        | Description |
 |--------|----------------|-------------|
@@ -145,7 +145,7 @@ public IActionResult GetSalesReport()
 | GET    | `/api/sales` | Employee | View sales records |
 | GET    | `/api/sales-report` | Employee | Get sales reports |
 
-#✅ ASP.NET Web API - Main Fields
+# ✅ ASP.NET Web API - Main Fields
 
 ASP.NET Web API is a framework for building **RESTful services** that allow applications to communicate over HTTP. It is widely used in **modern web, mobile, and cloud-based applications**.
 
@@ -162,7 +162,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   }
   ```
 
-##💻 **2. HTTP Methods & Status Codes**
+## 💻 **2. HTTP Methods & Status Codes**
 - Supports standard HTTP methods:  
   - `GET` → Retrieve data  
   - `POST` → Create data  
@@ -170,7 +170,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   - `DELETE` → Remove data  
 - Returns proper **HTTP status codes** like `200 OK`, `201 Created`, `400 Bad Request`, etc.
 
-##💻 **3. Model Binding & Validation**
+## 💻 **3. Model Binding & Validation**
 - Automatically maps HTTP request data (JSON, query parameters, etc.) to C# objects.
 - Supports **validation attributes** (`[Required]`, `[MaxLength]`, `[Range]`, etc.).
 - Example:
@@ -197,7 +197,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   }
   ```
 
-##💻 **5. Authentication & Authorization**
+## 💻 **5. Authentication & Authorization**
 - Supports **JWT (JSON Web Token)**, OAuth, and API Key authentication.
 - Uses `[Authorize]` attribute to protect API endpoints.
 - Example:
@@ -207,7 +207,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   public IActionResult GetSecureData() { ... }
   ```
 
-##💻 **6. Entity Framework & Database Operations**
+## 💻 **6. Entity Framework & Database Operations**
 - Uses **Entity Framework Core (EF Core)** as an ORM for database interactions.
 - Supports **LINQ queries**, migrations, and database seeding.
 - Example:
@@ -225,7 +225,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   }
   ```
 
-##💻 **7. Middleware & Filters**
+## 💻 **7. Middleware & Filters**
 - Uses middleware for **error handling, logging, and request processing**.
 - Filters like `[ExceptionFilter]`, `[ActionFilter]` allow request customization.
 - Example:
@@ -239,7 +239,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   }
   ```
 
-##💻 **8. API Documentation (Swagger / OpenAPI)**
+## 💻 **8. API Documentation (Swagger / OpenAPI)**
 - Uses **Swashbuckle** to generate API documentation automatically.
 - Enables **interactive testing** of endpoints.
 - Example:
@@ -249,7 +249,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   app.UseSwaggerUI();
   ```
 
-##💻 **9. CORS (Cross-Origin Resource Sharing)**
+## 💻 **9. CORS (Cross-Origin Resource Sharing)**
 - Enables API access from different origins (frontend apps, mobile clients).
 - Example:
   ```csharp
@@ -261,7 +261,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
 
 ---
 
-###💻 **Conclusion**
+### 💻 **Conclusion**
 **ASP.NET Web API** provides a robust framework for **building, securing, and deploying** RESTful services. It integrates well with **Entity Framework, authentication mechanisms, and modern web technologies**, making it a key tool in backend development.
 
 
