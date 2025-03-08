@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IPQzeswfdKHl0NGoIIgKidSnbNFbf7IlcH6e6spTDAU=",
+  "Source": "SalesManagementSystem.API",
+  "BasePath": "_content/SalesManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,136 @@
+C:\Users\User\Desktop\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+C:\Users\User\Desktop\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+C:\Users\User\Desktop\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+C:\Users\User\Desktop\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+C:\Users\User\Desktop\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+C:\Users\User\Desktop\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+C:\Users\User\Desktop\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+C:\Users\admin\Downloads\WebAPIProject (3)\WebAPIProject\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 7\Updated _ WebAPIProject\Updated _ WebAPIProject\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture7_ WebAPIProject\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+D:\ASUS Data\IT Step Lecture Course\2024_GR39_4\Module 4. .Net Core\Lecture 8\Lecture8_ WebAPIProject\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\Sales Management System _ Demo\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.deps.json
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.runtimeconfig.json
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\bin\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\bin\Debug\net8.0\SalesManagementSystem.DATA.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.AssemblyInfo.cs
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesMan.F700CF67.Up2Date
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\refint\SalesManagementSystem.DAL.dll
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.pdb
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\SalesManagementSystem.DAL.genruntimeconfig.cache
+D:\ASUS Data\IT Step Lecture Course\.Net Core Api Materials\DEMO _ Sales Management System JWT\Database\obj\Debug\net8.0\ref\SalesManagementSystem.DAL.dll

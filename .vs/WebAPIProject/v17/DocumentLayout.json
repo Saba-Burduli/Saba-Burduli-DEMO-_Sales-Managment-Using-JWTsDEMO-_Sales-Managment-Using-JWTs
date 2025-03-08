@@ -1,0 +1,726 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\salesmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\salesmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\dtos\\usermodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\dtos\\usermodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\salesmanagmentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\salesmanagmentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\configurations\\categoryconfiguaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\categoryconfiguaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\dtos\\personmodels\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\dtos\\personmodels\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\dtos\\usermodels\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\dtos\\usermodels\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\helpers\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\helpers\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\database\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|solutionrelative:database\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\database\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|solutionrelative:database\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\salesmanagementsystem.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\salesmanagementsystem.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\webapiproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\database\\repositories\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|solutionrelative:database\\repositories\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\settings\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\settings\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\settings\\iappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\settings\\iappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\infastructures\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\infastructures\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\entites\\systemusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\systemusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\migrations\\20250214102344_migrate_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\migrations\\20250214102344_migrate_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\infastructures\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\infastructures\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\service\\dtos\\usermodels\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\dtos\\usermodels\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\entites\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\configurations\\personconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\personconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\migrations\\20250214101538_migrate_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\migrations\\20250214101538_migrate_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|d:\\asus data\\it step lecture course\\.net core api materials\\demo _ sales management system jwt\\enitity\\migrations\\20250214095641_migrate_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\migrations\\20250214095641_migrate_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\UserModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\LoginModel.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\UserModels\\LoginModel.cs",
+              "RelativeToolTip": "Service\\DTOs\\UserModels\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:53:47.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwGIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:08:12.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Program.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Program.cs",
+              "RelativeToolTip": "WebAPIProject\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:19:20.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIProject\\appsettings.json",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\appsettings.json",
+              "RelativeToolTip": "WebAPIProject\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAADDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T12:38:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesManagementSystem.API.csproj",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\SalesManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "WebAPIProject\\SalesManagementSystem.API.csproj",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\SalesManagementSystem.API.csproj",
+              "RelativeToolTip": "WebAPIProject\\SalesManagementSystem.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T08:56:39.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPIProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAswEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:07:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesManagmentSystemDbContext.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\SalesManagmentSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Enitity\\SalesManagmentSystemDbContext.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\SalesManagmentSystemDbContext.cs",
+              "RelativeToolTip": "Enitity\\SalesManagmentSystemDbContext.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAJ0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:52:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:24:01.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryConfiguaration.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:43:57.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\User.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\User.cs",
+              "RelativeToolTip": "Enitity\\Entites\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:22:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\PersonModels\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\PersonModels\\PersonModel.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\PersonModels\\PersonModel.cs",
+              "RelativeToolTip": "Service\\DTOs\\PersonModels\\PersonModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:47:16.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\Person.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Person.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\Person.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Person.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:22:13.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterUserModel.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\UserModels\\RegisterUserModel.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\RegisterUserModel.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\UserModels\\RegisterUserModel.cs",
+              "RelativeToolTip": "Service\\DTOs\\UserModels\\RegisterUserModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:56:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:25:55.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:00:48.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:29:59.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\Role.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Role.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\Role.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Role.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:56:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\RatingController.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "WebAPIProject\\Controllers\\RatingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:38:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Helpers\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\TokenHelper.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Helpers\\TokenHelper.cs",
+              "RelativeToolTip": "Service\\Helpers\\TokenHelper.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:40:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebAPIProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAjwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:13:43.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SalesManagementSystem.SERVICE.csproj",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\SalesManagementSystem.SERVICE.csproj",
+              "RelativeDocumentMoniker": "Service\\SalesManagementSystem.SERVICE.csproj",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\SalesManagementSystem.SERVICE.csproj",
+              "RelativeToolTip": "Service\\SalesManagementSystem.SERVICE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T16:00:20.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswEcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:46:02.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:30:07.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Database\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Database\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAlwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:21:43.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Database\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Database\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:39:32.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Database\\Repositories\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\IPasswordHasher.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Database\\Repositories\\IPasswordHasher.cs",
+              "RelativeToolTip": "Database\\Repositories\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:31:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPIProject\\appsettings.Development.json",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\WebAPIProject\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPIProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T10:18:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAppSettings.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Settings\\IAppSettings.cs",
+              "RelativeDocumentMoniker": "Enitity\\Settings\\IAppSettings.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Settings\\IAppSettings.cs",
+              "RelativeToolTip": "Enitity\\Settings\\IAppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:08:08.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Settings\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Enitity\\Settings\\AppSettings.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Settings\\AppSettings.cs",
+              "RelativeToolTip": "Enitity\\Settings\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:09:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Infastructures\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Enitity\\Infastructures\\IBaseRepository.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Infastructures\\IBaseRepository.cs",
+              "RelativeToolTip": "Enitity\\Infastructures\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:08:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SystemUserModel.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\SystemUserModel.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\SystemUserModel.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\SystemUserModel.cs",
+              "RelativeToolTip": "Enitity\\Entites\\SystemUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:03:53.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250214102344_migrate_v3.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Migrations\\20250214102344_migrate_v3.cs",
+              "RelativeDocumentMoniker": "Enitity\\Migrations\\20250214102344_migrate_v3.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Migrations\\20250214102344_migrate_v3.cs",
+              "RelativeToolTip": "Enitity\\Migrations\\20250214102344_migrate_v3.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:23:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250214095641_migrate_v1.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Migrations\\20250214095641_migrate_v1.cs",
+              "RelativeDocumentMoniker": "Enitity\\Migrations\\20250214095641_migrate_v1.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Migrations\\20250214095641_migrate_v1.cs",
+              "RelativeToolTip": "Enitity\\Migrations\\20250214095641_migrate_v1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:56:41.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250214101538_migrate_v2.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Migrations\\20250214101538_migrate_v2.cs",
+              "RelativeDocumentMoniker": "Enitity\\Migrations\\20250214101538_migrate_v2.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Migrations\\20250214101538_migrate_v2.cs",
+              "RelativeToolTip": "Enitity\\Migrations\\20250214101538_migrate_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:15:38.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Interfaces\\IRatingService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IRatingService.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\Interfaces\\IRatingService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IRatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:33:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Infastructures\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Enitity\\Infastructures\\BaseRepository.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Infastructures\\BaseRepository.cs",
+              "RelativeToolTip": "Enitity\\Infastructures\\BaseRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:45:49.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateUserModel.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\UserModels\\UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\UpdateUserModel.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Service\\DTOs\\UserModels\\UpdateUserModel.cs",
+              "RelativeToolTip": "Service\\DTOs\\UserModels\\UpdateUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:48:57.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PersonType.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\PersonType.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\PersonType.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Entites\\PersonType.cs",
+              "RelativeToolTip": "Enitity\\Entites\\PersonType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:50:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PersonConfiguration.cs",
+              "DocumentMoniker": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\PersonConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\PersonConfiguration.cs",
+              "ToolTip": "D:\\ASUS Data\\IT Step Lecture Course\\.Net Core Api Materials\\DEMO _ Sales Management System JWT\\Enitity\\Configurations\\PersonConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\PersonConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:27:46.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
