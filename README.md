@@ -263,6 +263,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
 Here is Operations :
 1. Person Operations:
    <br>
+   
 o Add a new customer/ deliever.
 o Update customer/deliever details (e.g., name, address, contact info).
 o Delete a customer/deliever.
