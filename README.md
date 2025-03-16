@@ -260,6 +260,33 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
   ```
 
 ---
+Here is Operations :
+1. Person Operations:
+o Add a new customer/ deliever.
+o Update customer/deliever details (e.g., name, address, contact info).
+o Delete a customer/deliever.
+o View all customers/delievers.
+2. Product Operations:
+o Add a new product.
+o Update product details (e.g., name, price, stock quantity).
+o Delete a product.
+o View all products or filter by category.
+3. Order Operations:
+o Create a new order (add order and related order items).
+o Update Order status (e.g., mark as completed).
+o Delete an Order (remove all associated order items).
+o View all Orders by customer, deliever or statuses.
+4. OrderItem Operations:
+o Add products to an order.
+o Update order item quantities or prices.
+o Remove items from an order.
+5. Payment Operations:
+o Add a payment to an order.
+o Update payment details (e.g., amount, payment method).
+o View payments by order.
+6. Category Operations (optional):
+o Add, update, or delete categories.
+o Assign products to categories.
 
 ### 💻 **Conclusion**
 **ASP.NET Web API** provides a robust framework for **building, securing, and deploying** RESTful services. It integrates well with **Entity Framework, authentication mechanisms, and modern web technologies**, making it a key tool in backend development.
