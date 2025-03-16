@@ -261,14 +261,23 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
 
 ---
 Here is Operations :
-<h3>Person Operations:</h3>
 
+<h3>Person Operations:</h3>
 <ol>
  <li>Add a new customer/ deliever.</li>
   <li>Update customer/deliever details (e.g., name, address, contact info).</li>
   <li>Delete a customer/deliever.</li>
   <li>View all customers/delievers.</li>
 </ol>
+
+<h3>Product Operations:</h3>
+<ol>
+ <li>Add a new product.</li>
+  <li>Update product details (e.g., name, price, stock quantity).</li>
+  <li>Delete a product.</li>
+  <li>View all products or filter by category.</li>
+</ol>
+
 
 ### 💻 **Conclusion**
 **ASP.NET Web API** provides a robust framework for **building, securing, and deploying** RESTful services. It integrates well with **Entity Framework, authentication mechanisms, and modern web technologies**, making it a key tool in backend development.
