@@ -269,7 +269,7 @@ Here is Operations :
   <li>Update customer/deliever details (e.g., name, address, contact info).</li>
   <li>Delete a customer/deliever.</li>
   <li>View all customers/delievers.</li>
-</ol>
+</ul>
 
 <h3>2. Product Operations:</h3>
 <ul>
@@ -286,29 +286,32 @@ Here is Operations :
   <li>Update Order status (e.g., mark as completed).</li>
   <li>Delete an Order (remove all associated order items).</li>
   <li>View all Orders by customer, deliever or statuses.</li>
-</ol>
+</ul>
 
 
 <h3>4. OrderItem Operations:</h3>
-
- <li>Add products to an order.</li>
+<ul>
+  <li>Add products to an order.</li>
   <li>Update order item quantities or prices.</li>
   <li>Remove items from an order.</li>
+</ul>
+
 
 
 
 <h3>5. Payment Operations</h3>
-
- <li>Add a payment to an order.</li>
+<ul>
+  <li>Add a payment to an order.</li>
   <li>Update payment details (e.g., amount, payment method).</li>
   <li>View payments by order.</li>
+</ul>
+
 
 
 <h3>6. Category Operations (optional):</h3>
-<ol>
+<ul>
  <li>Add, update, or delete categories.</li>
-  <li>Assign products to categories.</li>
-
+ <li>Assign products to categories.</li>
 </ul>
 
 ### 💻 **Conclusion**
