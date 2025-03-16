@@ -272,12 +272,12 @@ Here is Operations :
 </ol>
 
 <h3>2. Product Operations:</h3>
-<ol>
+<ul>
  <li>Add a new product.</li>
   <li>Update product details (e.g., name, price, stock quantity).</li>
   <li>Delete a product.</li>
   <li>View all products or filter by category.</li>
-</ol>
+</ul>
 
 
 <h3>3. Order Operations:</h3>
