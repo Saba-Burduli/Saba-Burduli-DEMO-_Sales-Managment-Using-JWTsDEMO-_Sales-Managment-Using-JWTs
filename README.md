@@ -145,6 +145,7 @@ public IActionResult GetSalesReport()
 | GET    | `/api/sales` | Employee | View sales records |
 | GET    | `/api/sales-report` | Employee | Get sales reports |
 
+
 # ✅ ASP.NET Web API - Main Fields
 
 ASP.NET Web API is a framework for building **RESTful services** that allow applications to communicate over HTTP. It is widely used in **modern web, mobile, and cloud-based applications**.
