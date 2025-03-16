@@ -262,7 +262,7 @@ ASP.NET Web API is a framework for building **RESTful services** that allow appl
 ---
 Here is Operations :
 
-<h3>Person Operations:</h3>
+<h3>1. Person Operations:</h3>
 <ol>
  <li>Add a new customer/ deliever.</li>
   <li>Update customer/deliever details (e.g., name, address, contact info).</li>
@@ -270,7 +270,7 @@ Here is Operations :
   <li>View all customers/delievers.</li>
 </ol>
 
-<h3>Product Operations:</h3>
+<h3>2. Product Operations:</h3>
 <ol>
  <li>Add a new product.</li>
   <li>Update product details (e.g., name, price, stock quantity).</li>
@@ -279,7 +279,7 @@ Here is Operations :
 </ol>
 
 
-<h3>Order Operations:</h3>
+<h3>3. Order Operations:</h3>
 <ol>
  <li>Create a new order (add order and related order items).</li>
   <li>Update Order status (e.g., mark as completed).</li>
@@ -288,7 +288,7 @@ Here is Operations :
 </ol>
 
 
-<h3>OrderItem Operations:</h3>
+<h3>4. OrderItem Operations:</h3>
 <ol>
  <li>Add products to an order.</li>
   <li>Update order item quantities or prices.</li>
@@ -296,11 +296,18 @@ Here is Operations :
 </ol>
 
 
-<h3>Payment Operations</h3>
+<h3>5. Payment Operations</h3>
 <ol>
  <li>Add a payment to an order.</li>
   <li>Update payment details (e.g., amount, payment method).</li>
   <li>View payments by order.</li>
+</ol>
+
+<h3>6. Category Operations (optional):</h3>
+<ol>
+ <li>Add, update, or delete categories.</li>
+  <li>Assign products to categories.</li>
+
 </ol>
 
 ### 💻 **Conclusion**
