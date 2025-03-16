@@ -296,6 +296,13 @@ Here is Operations :
 </ol>
 
 
+<h3>Payment Operations</h3>
+<ol>
+ <li>Add a payment to an order.</li>
+  <li>Update payment details (e.g., amount, payment method).</li>
+  <li>View payments by order.</li>
+</ol>
+
 ### 💻 **Conclusion**
 **ASP.NET Web API** provides a robust framework for **building, securing, and deploying** RESTful services. It integrates well with **Entity Framework, authentication mechanisms, and modern web technologies**, making it a key tool in backend development.
 
