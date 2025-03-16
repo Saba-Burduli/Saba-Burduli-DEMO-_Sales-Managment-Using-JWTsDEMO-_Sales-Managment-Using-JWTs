@@ -1,5 +1,5 @@
 
-<h1>:shipit: 🚀 JWTsDEMO - Sales Management Using JWTs</h1>
+<h1>🚀 JWTsDEMO - Sales Management Using JWTs</h1>
 
  ## ✅ Overview
 The **JWTsDEMO - Sales Management Using JWTs** project is a **Sales Management System** built with **ASP.NET Core** that demonstrates **JWT-based authentication and role-based access control**. The system allows admins, sales managers, and employees to manage sales records, generate reports, and perform CRUD operations securely.
