@@ -297,8 +297,6 @@ Here is Operations :
 </ul>
 
 
-
-
 <h3>5. Payment Operations</h3>
 <ul>
   <li>Add a payment to an order.</li>
@@ -307,12 +305,13 @@ Here is Operations :
 </ul>
 
 
-
 <h3>6. Category Operations (optional):</h3>
 <ul>
  <li>Add, update, or delete categories.</li>
  <li>Assign products to categories.</li>
 </ul>
+
+<br>
 
 ### 💻 **Conclusion**
 **ASP.NET Web API** provides a robust framework for **building, securing, and deploying** RESTful services. It integrates well with **Entity Framework, authentication mechanisms, and modern web technologies**, making it a key tool in backend development.
