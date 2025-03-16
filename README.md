@@ -288,6 +288,14 @@ Here is Operations :
 </ol>
 
 
+<h3>OrderItem Operations:</h3>
+<ol>
+ <li>Add products to an order.</li>
+  <li>Update order item quantities or prices.</li>
+  <li>Remove items from an order.</li>
+</ol>
+
+
 ### 💻 **Conclusion**
 **ASP.NET Web API** provides a robust framework for **building, securing, and deploying** RESTful services. It integrates well with **Entity Framework, authentication mechanisms, and modern web technologies**, making it a key tool in backend development.
 
