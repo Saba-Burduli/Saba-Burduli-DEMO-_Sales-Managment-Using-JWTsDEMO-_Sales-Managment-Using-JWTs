@@ -275,7 +275,7 @@ Here is Operations :
  <li>Add a new product.</li>
   <li>Update product details (e.g., name, price, stock quantity).</li>
   <li>Delete a product.</li>
-  <li>View all Orders by customer, deliever or statuses.</li>
+  <li>View all products or filter by category.</li>
 </ol>
 
 
@@ -284,7 +284,7 @@ Here is Operations :
  <li>Create a new order (add order and related order items).</li>
   <li>Update Order status (e.g., mark as completed).</li>
   <li>Delete an Order (remove all associated order items).</li>
-  <li>View all products or filter by category.</li>
+  <li>View all Orders by customer, deliever or statuses.</li>
 </ol>
 
 
