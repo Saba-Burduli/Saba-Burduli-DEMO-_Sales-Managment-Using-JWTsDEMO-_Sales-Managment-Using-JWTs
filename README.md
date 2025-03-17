@@ -98,6 +98,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 ```
 
+
 ### Defining Roles in `UserRoles.cs`
 ```csharp
 public static class UserRoles
