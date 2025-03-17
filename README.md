@@ -20,6 +20,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 - **JWT.io** – To decode and verify JWT tokens.
 
 
+
  ## 🔜 Features
 - **JWT Authentication** for secure API access.
 - **Role-based access control (RBAC)** with Admin, Sales Manager, and Employee roles.
