@@ -79,6 +79,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 4. **Role Validation:** The API checks user roles before allowing access to protected endpoints.
 
 
+
 ### Setting Up JWT Authentication in `Program.cs`
 ```csharp
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
