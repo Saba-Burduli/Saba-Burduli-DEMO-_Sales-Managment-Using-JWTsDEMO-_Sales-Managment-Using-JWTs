@@ -78,6 +78,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 
 
 ## ✅ JWT Authentication & Role-Based Access Control
+
 ### How JWT Works in ASP.NET Core
 1. **User Logs In:** A user submits credentials (email & password) to the API.
 2. **Token Generation:** If valid, the API generates a JWT token with user claims (including roles).
