@@ -117,6 +117,7 @@ public static class UserRoles
 ```
 
 ### Protecting Endpoints Based on Roles
+
 ```csharp
 [Authorize(Roles = UserRoles.Admin)]
 [HttpPost("/create-product")]
