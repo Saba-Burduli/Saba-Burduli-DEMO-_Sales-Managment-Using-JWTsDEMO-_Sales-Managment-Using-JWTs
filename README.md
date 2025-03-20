@@ -44,6 +44,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 
 
 ## ↙️ Installation & Setup
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/JWTsDEMO-Sales-Management.git
