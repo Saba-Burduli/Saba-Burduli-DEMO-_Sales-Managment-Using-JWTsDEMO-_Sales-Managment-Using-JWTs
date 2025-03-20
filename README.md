@@ -89,6 +89,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 
 
 
+
 ### Setting Up JWT Authentication in `Program.cs`
 ```csharp
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
