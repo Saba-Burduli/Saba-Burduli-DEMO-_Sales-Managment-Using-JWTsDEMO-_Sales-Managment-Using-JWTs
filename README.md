@@ -24,6 +24,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 
 
  ## 🔜 Features
+ 
 - **JWT Authentication** for secure API access.
 - **Role-based access control (RBAC)** with Admin, Sales Manager, and Employee roles.
 - **CRUD operations** for sales records and product management.
