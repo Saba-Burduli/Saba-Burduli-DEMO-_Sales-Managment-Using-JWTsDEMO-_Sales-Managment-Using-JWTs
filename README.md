@@ -7,6 +7,7 @@ The **JWTsDEMO - Sales Management Using JWTs** project is a **Sales Management S
 
 
 ## ⁉️ How I Built This Project
+
 I developed this project using **ASP.NET Core Web API** with **Entity Framework Core** for data management and **MSSQL Server** as the database. The authentication mechanism relies on **JWT (JSON Web Token)** to ensure secure access control. The project follows **RESTful API** principles and implements **role-based access control (RBAC)** for different user roles.
 
 
