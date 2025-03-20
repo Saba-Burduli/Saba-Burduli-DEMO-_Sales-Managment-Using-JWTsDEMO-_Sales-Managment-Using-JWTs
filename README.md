@@ -34,6 +34,7 @@ I developed this project using **ASP.NET Core Web API** with **Entity Framework 
 
 
 ## 💻 Technologies Used
+
 - **ASP.NET Core Web API**
 - **Entity Framework Core**
 - **Microsoft SQL Server (MSSQL)**
